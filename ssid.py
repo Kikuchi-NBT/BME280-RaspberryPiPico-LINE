@@ -1,0 +1,2 @@
+SSID='あなたのSSID'
+PASS='あなたのWiFi'
